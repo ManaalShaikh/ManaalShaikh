@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manaal Shaikh
 - 👀 I’m interested in web development,open source contributions.
-- 🌱 I’m currently learning Bachelor of Computer Science.
+- 🌱 I’m recently completed Bachelor of Computer Science.
 - 💞️ I’m looking to collaborate on Open source projects and Innovative Web application.
 
   
